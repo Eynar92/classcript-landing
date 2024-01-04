@@ -8,8 +8,8 @@ interface Props {
 
 const menuItems = [
     { id: 1, label: "How it works", href: "#how-it-works" },
-    { id: 2, label: "Features", href: "#" },
-    { id: 3, label: "Pricing", href: "#" },
+    { id: 2, label: "Features", href: "#why-classcript" },
+    { id: 3, label: "Pricing", href: "#pricing" },
     { id: 4, label: "Contact us", href: "#" },
 ]
 
