@@ -3,7 +3,7 @@ import Modal from "./components/Modal";
 
 export default function ModalVideo() {
     return (
-        <section className="w-screen h-96 inset-0 flex items-center relative justify-center my-20 snap-center bg-[#272e3f] lg:my-20 ">
+        <section id="modal-video" className="w-screen h-96 inset-0 flex items-center relative justify-center my-20 snap-center bg-[#272e3f] lg:my-20 ">
             <Particles className="absolute w-full h-auto inset-0" />
             <div
                 className="flex justify-center items-center cursor-pointer"
