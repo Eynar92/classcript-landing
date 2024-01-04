@@ -29,7 +29,7 @@ export default function Modal() {
                 <DialogFooter className="sm:justify-start">
                     <DialogClose asChild>
                         <Button type="button" variant="secondary">
-                            Close
+                            Cerrar
                         </Button>
                     </DialogClose>
                 </DialogFooter>
