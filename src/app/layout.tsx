@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className='scroll-smooth scroll-pt-20 snap-y overflow-scroll overflow-x-hidden'>
+    <html lang="en" className='scroll-smooth scroll-pt-20 snap-y snap-mandatory overflow-scroll overflow-x-hidden'>
       <body className={openSans.className}>
         <Navbar />
         {children}

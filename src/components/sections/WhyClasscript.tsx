@@ -39,7 +39,7 @@ const CardList: CardItem[] = [
 
 const WhyClasscript = () => {
     return (
-        <section className="flex flex-col gap-8 items-center justify-center w-full h-full my-10 px-4 snap-start md:my-20 md:px-8 lg:px-32">
+        <section id="why-classcript" className="flex flex-col gap-8 items-center justify-center w-full h-full my-10 px-4 snap-start md:my-20 md:px-8 lg:px-32">
             <h2 className="text-3xl font-semibold">Why <span className="font-black">Classcript</span></h2>
             <div className="flex gap-10 flex-wrap justify-center">
                 {
